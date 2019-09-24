@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/eCommerceDemo/static/css/main.13820d97.chunk.css",
+    "main.js": "/eCommerceDemo/static/js/main.0b6a07e7.chunk.js",
+    "main.js.map": "/eCommerceDemo/static/js/main.0b6a07e7.chunk.js.map",
+    "runtime~main.js": "/eCommerceDemo/static/js/runtime~main.821d25fa.js",
+    "runtime~main.js.map": "/eCommerceDemo/static/js/runtime~main.821d25fa.js.map",
+    "static/js/2.b0594ed9.chunk.js": "/eCommerceDemo/static/js/2.b0594ed9.chunk.js",
+    "static/js/2.b0594ed9.chunk.js.map": "/eCommerceDemo/static/js/2.b0594ed9.chunk.js.map",
+    "index.html": "/eCommerceDemo/index.html",
+    "precache-manifest.8da0ccb6cb80d68b3daa29b2b9be222e.js": "/eCommerceDemo/precache-manifest.8da0ccb6cb80d68b3daa29b2b9be222e.js",
+    "service-worker.js": "/eCommerceDemo/service-worker.js",
+    "static/css/main.13820d97.chunk.css.map": "/eCommerceDemo/static/css/main.13820d97.chunk.css.map",
+    "static/media/crown.ed28accb.svg": "/eCommerceDemo/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/eCommerceDemo/static/media/shopping-bag.30f07071.svg"
+  }
+}
